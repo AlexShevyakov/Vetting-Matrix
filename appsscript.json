@@ -1,0 +1,51 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Sheets",
+        "serviceId": "sheets",
+        "version": "v4"
+      },
+      {
+        "userSymbol": "Drive",
+        "serviceId": "drive",
+        "version": "v2"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [
+      {
+        "menuName": "Untitled macro",
+        "functionName": "Untitledmacro"
+      },
+      {
+        "menuName": "Untitled macro",
+        "functionName": "Untitledmacro"
+      },
+      {
+        "menuName": "Untitled macro 1",
+        "functionName": "Untitledmacro1"
+      },
+      {
+        "menuName": "Untitled macro",
+        "functionName": "Untitledmacro"
+      },
+      {
+        "menuName": "Untitled macro",
+        "functionName": "Untitledmacro"
+      },
+      {
+        "menuName": "Untitled macro 1",
+        "functionName": "Untitledmacro1"
+      },
+      {
+        "menuName": "Untitled macro",
+        "functionName": "Untitledmacro"
+      }
+    ]
+  }
+}
